@@ -1,9 +1,9 @@
 # Thai bamboo plastomes
 
 Scripts for the divergence-hotspot analyses of 17 complete plastomes
-of Thai bamboos, described in:
+of Thai bamboos. The associated manuscript is in preparation and the
+citation will be added here after publication.
 
-> [Authors]. [Year]. [Title]. *Plant Diversity* [volume, pages]. https://doi.org/[DOI]
 
 Python 3 (>= 3.8), standard library only. Run a script without arguments
 (or with `-h`) to see its options.
